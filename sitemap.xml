@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://cssjpn.github.io/blog/RU/RUsample/</loc>
+    
+    <lastmod>2023-02-07</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://cssjpn.github.io/blog/information/example/</loc>
     
     <lastmod>2023-02-07</lastmod>
@@ -10,6 +17,13 @@
   
   <url>
     <loc>https://cssjpn.github.io/blog/information/test/</loc>
+    
+    <lastmod>2023-02-07</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://cssjpn.github.io/blog/shoshii-test/test/</loc>
     
     <lastmod>2023-02-07</lastmod>
     
@@ -25,6 +39,20 @@
 
   
   <url>
+    <loc>https://cssjpn.github.io/blog/tags/RU/</loc>
+    <lastmod>2023-02-07</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://cssjpn.github.io/blog/tags/test/</loc>
+    <lastmod>2023-02-07</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://cssjpn.github.io/blog/tags/Information/</loc>
     <lastmod>2023-02-07</lastmod>
     <changefreq>daily</changefreq>
@@ -33,6 +61,13 @@
   
   <url>
     <loc>https://cssjpn.github.io/blog/tags/Example/</loc>
+    <lastmod>2023-02-07</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://cssjpn.github.io/blog/tags/shoshii-test/</loc>
     <lastmod>2023-02-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
