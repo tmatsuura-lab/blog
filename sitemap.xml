@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://cssjpn.github.io/blog/Information/test/</loc>
+    
+    <lastmod>2023-03-11</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://cssjpn.github.io/blog/Information/shoshii-test/test/</loc>
+    
+    <lastmod>2023-03-11</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://cssjpn.github.io/blog/Information/example/</loc>
+    
+    <lastmod>2023-03-11</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://cssjpn.github.io/blog/CosmosDB/Monitoring/monitoring/</loc>
+    
+    <lastmod>2023-03-11</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://cssjpn.github.io/blog/CosmosDB/Monitoring/monitoring2/</loc>
+    
+    <lastmod>2023-03-11</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://cssjpn.github.io/blog/CosmosDB/Partition/parition/</loc>
+    
+    <lastmod>2023-03-11</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://cssjpn.github.io/blog/CosmosDB/RU/RUsample/</loc>
+    
+    <lastmod>2023-03-11</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://cssjpn.github.io/blog/CosmosDB/Security/security/</loc>
+    
+    <lastmod>2023-03-11</lastmod>
+    
+  </url>
+  
+
+  <url>
+    <loc>https://cssjpn.github.io/blog</loc>
+    <lastmod>2023-03-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  
+  <url>
+    <loc>https://cssjpn.github.io/blog/tags/Information/</loc>
+    <lastmod>2023-03-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://cssjpn.github.io/blog/tags/Example/</loc>
+    <lastmod>2023-03-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://cssjpn.github.io/blog/tags/Monitoring/</loc>
+    <lastmod>2023-03-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://cssjpn.github.io/blog/tags/RU/</loc>
+    <lastmod>2023-03-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://cssjpn.github.io/blog/tags/NormalizedRUConsumption/</loc>
+    <lastmod>2023-03-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://cssjpn.github.io/blog/tags/Storage/</loc>
+    <lastmod>2023-03-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://cssjpn.github.io/blog/tags/%E8%A8%BA%E6%96%AD%E6%83%85%E5%A0%B1/</loc>
+    <lastmod>2023-03-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://cssjpn.github.io/blog/tags/DataPlaneRequests/</loc>
+    <lastmod>2023-03-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://cssjpn.github.io/blog/tags/ActivityId/</loc>
+    <lastmod>2023-03-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://cssjpn.github.io/blog/tags/Parition/</loc>
+    <lastmod>2023-03-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://cssjpn.github.io/blog/tags/Merge/</loc>
+    <lastmod>2023-03-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://cssjpn.github.io/blog/tags/Split/</loc>
+    <lastmod>2023-03-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://cssjpn.github.io/blog/tags/Design/</loc>
+    <lastmod>2023-03-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://cssjpn.github.io/blog/tags/test/</loc>
+    <lastmod>2023-03-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://cssjpn.github.io/blog/tags/Security/</loc>
+    <lastmod>2023-03-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://cssjpn.github.io/blog/tags/Network/</loc>
+    <lastmod>2023-03-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://cssjpn.github.io/blog/tags/Private-Endpoint/</loc>
+    <lastmod>2023-03-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://cssjpn.github.io/blog/tags/RBAC/</loc>
+    <lastmod>2023-03-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://cssjpn.github.io/blog/tags/shoshii-test/</loc>
+    <lastmod>2023-03-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+
+  
+  <url>
+    <loc>https://cssjpn.github.io/blog/categories/Cosmos-DB/</loc>
+    <lastmod>2023-03-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://cssjpn.github.io/blog/categories/Cosmos-DB/Monitoring/</loc>
+    <lastmod>2023-03-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://cssjpn.github.io/blog/categories/Cosmos-DB/Security/</loc>
+    <lastmod>2023-03-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://cssjpn.github.io/blog/categories/Cosmos-DB/Parition/</loc>
+    <lastmod>2023-03-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://cssjpn.github.io/blog/categories/Information/</loc>
+    <lastmod>2023-03-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://cssjpn.github.io/blog/categories/Cosmos-DB/RBAC/</loc>
+    <lastmod>2023-03-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+</urlset>
